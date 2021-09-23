@@ -1,0 +1,87 @@
+.container {
+    width:980px;
+    margin: 3px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: Segoe UI;
+    text-transform: uppercase;
+}
+.wrapper {
+    background-color: #666666;
+    max-width: 980px;   
+}
+.container-item1 {
+    background-color:#aaaaaa;
+    height: 50px;
+    width: 313.255px; 
+    font-size: 20px;
+    text-align: center;
+    border: 10px solid #666666;  
+} 
+.container-item2 {
+    background-color: #aaaaaa;
+    height: 50px;
+    width: 626.55px;
+    position: relative;
+    font-size: 20px;
+    text-align: center;
+    border: 10px solid #666666;  
+}
+.container-item3 {
+    background-color: #aaaaaa;
+    height: 300px;
+    width: 980px;
+    font-size: 25px;
+    text-align: center;
+    border: 10px solid #666666;  
+} 
+.container-item4 {
+    background-color: #aaaaaa;
+    height: 250px;
+    width: 306px;
+    font-size: 25px;
+    text-align: center;
+    border: 10px solid #666666;
+}
+.container-item5 {
+    background-color: #aaaaaa;;
+    height: 250px;
+    width: 307px;
+    font-size: 25px;
+    text-align: center;
+    border: 10px solid #666666;   
+} 
+.container-item6 {
+    background-color: #aaaaaa;;
+    height: 250px;
+    width: 307px;
+    font-size: 25px;
+    text-align: center;
+    border: 10px solid #666666;
+}
+.container-item7 {
+    background-color: #aaaaaa;
+    height: 400px;
+    width: 313.255px;
+    font-size: 25px;
+    text-align: center;
+    border: 10px solid #666666;  
+} 
+.container-item8 {
+    background-color: #aaaaaa;;
+    height: 400px;
+    width: 626.55px;
+    font-size: 25px;
+    text-align: center;
+    border: 10px solid #666666;
+}
+.container-item9 {
+    background-color: #aaaaaa;
+    height: 200px;
+    width: 980px;
+    font-size: 25px;
+    text-align: center;
+    border: 10px solid #666666;
+}
